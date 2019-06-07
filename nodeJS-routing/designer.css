@@ -1,0 +1,28 @@
+header{
+    background-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    align-content: center; 
+}
+
+table, tr, td
+{
+    background-color: bisque;
+}
+
+nav{
+    background-color: cornflowerblue;
+    font-size:  16px;
+}
+
+nav.onhover
+{
+    font-size: 18px;
+}
+
+footer{
+    background-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    align-content: center; 
+}

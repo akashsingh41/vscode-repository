@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-routing",
+  "version": "1.0.0",
+  "description": "training-demo files",
+  "main": "y",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "origin"
+  },
+  "author": "Akash",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
